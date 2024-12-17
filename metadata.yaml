@@ -1,0 +1,31 @@
+_repo: Goethes-Lebenskunst_74788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bode, Wilhelm
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '57655'
+    url: http://www.gutenberg.org/2009/agents/57655
+    wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Bode_(Schriftsteller)
+description: ''
+gutenberg_issued: '2024-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74788'
+language: de
+pgterms:marc905: 20230226083431bode
+pgterms:marc906: '1913'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bErnst Siegfried Mittler und Sohn, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Ethics'
+- !lcc 'PT'
+- GITenberg
+title: Goethes Lebenskunst
+url: http://www.gutenberg.org/ebooks/74788
